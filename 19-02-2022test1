@@ -14,7 +14,7 @@ for i in range(t):
     for i in range(x+1,y):
         if isprime(i):
             count=count+1
-    print(count)
+    print("count is ",count)
 
 
     
